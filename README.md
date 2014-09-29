@@ -1,4 +1,5 @@
 # Angular Tour - [AngularJS](http://angularjs.org/) directive for giving a tour of your website.
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cladera/angular-tour?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Demo
 
